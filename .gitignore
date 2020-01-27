@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/LoRTracker/.vs/LoRTracker/v16
+/LoRTracker/LoRTracker/bin/Debug/netcoreapp3.0
+/LoRTracker/LoRTracker/obj
